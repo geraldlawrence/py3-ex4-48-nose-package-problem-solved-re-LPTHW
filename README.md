@@ -11,9 +11,9 @@ run nose2 in powershell. you should see:
 
 I RAN!
 .SETUP!
-.TEAR DOWN!
+.TEARDOWN!
 .
-----------------------------------------------------------------------
+-----------
 Ran 3 tests in 0.001s
 
 OK
